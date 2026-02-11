@@ -10,7 +10,7 @@ A basic app to manage F1 drivers and teams using SQL Server, .NET Web API Backen
 ### Prerequisites
 - Visual Studio 2022 or newer
 - .NET 8
-- Node.js v18 (or higher)
+- Node.js v24
 - SQL Server LocalDB (preinstalled with Visual Studio)
 
 ### Backend Setup:
