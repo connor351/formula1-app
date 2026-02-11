@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\controllers\\circuitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:controllers\\circuitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088ECB78-5C80-47C2-A22B-AB890FF6729F}|..\\FormulaOne.Api.Test\\FormulaOne.Api.Test.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api.test\\controllertests\\teamscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\entities\\dtos\\teamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:entities\\dtos\\teamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\entities\\dtos\\driverdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:entities\\dtos\\driverdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\entities\\dtos\\circuitdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:entities\\dtos\\circuitdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\entities\\database\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:entities\\database\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\entities\\database\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:entities\\database\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\entities\\database\\circuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:entities\\database\\circuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|c:\\users\\conno\\documents\\github\\formula1-app\\formulaone.api\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC10A2-8EB9-45FE-A473-3784B29A8E7A}|FormulaOne.Api.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:46:02.047Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircuitController.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Controllers\\CircuitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CircuitController.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Controllers\\CircuitController.cs",
+              "RelativeToolTip": "Controllers\\CircuitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:31:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "Controllers\\DriversController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:10:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CircuitDtos.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\DTOs\\CircuitDtos.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\CircuitDtos.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\DTOs\\CircuitDtos.cs",
+              "RelativeToolTip": "Entities\\DTOs\\CircuitDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:00:12.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:35:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api.Test\\ControllerTests\\TeamsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\FormulaOne.Api.Test\\ControllerTests\\TeamsControllerTests.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api.Test\\ControllerTests\\TeamsControllerTests.cs",
+              "RelativeToolTip": "..\\FormulaOne.Api.Test\\ControllerTests\\TeamsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:47:05.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverDtos.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\DTOs\\DriverDtos.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\DriverDtos.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\DTOs\\DriverDtos.cs",
+              "RelativeToolTip": "Entities\\DTOs\\DriverDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:54:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamDtos.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\DTOs\\TeamDtos.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\TeamDtos.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\DTOs\\TeamDtos.cs",
+              "RelativeToolTip": "Entities\\DTOs\\TeamDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:50:41.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:34:08.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circuit.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\Database\\Circuit.cs",
+              "RelativeDocumentMoniker": "Entities\\Database\\Circuit.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\Database\\Circuit.cs",
+              "RelativeToolTip": "Entities\\Database\\Circuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:30:29.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\Database\\Team.cs",
+              "RelativeDocumentMoniker": "Entities\\Database\\Team.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\Database\\Team.cs",
+              "RelativeToolTip": "Entities\\Database\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:29:50.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\Database\\Driver.cs",
+              "RelativeDocumentMoniker": "Entities\\Database\\Driver.cs",
+              "ToolTip": "C:\\Users\\conno\\Documents\\GitHub\\formula1-app\\FormulaOne.Api\\Entities\\Database\\Driver.cs",
+              "RelativeToolTip": "Entities\\Database\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:29:42.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
